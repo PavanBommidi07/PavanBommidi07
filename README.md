@@ -22,12 +22,3 @@ Data Visualization with Power BI & Matplotlib
 
 Machine Learning Basics & Model Deployment
 
-📫 Let’s Connect
-
-📧 pavanbommidi007@gmail.com
-
-🌐 GitHub – PavanBommidi07
-
-💻 LeetCode – Pavan_Bommidi
-
-📍 Hyderabad, India
