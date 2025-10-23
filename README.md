@@ -7,7 +7,6 @@ My journey in tech is fueled by curiosity, creativity, and a love for solving re
 ## **🚀 About Me**
 ---
 
-- 🎓 **B.Com (Computer Applications)** Graduate – Satavahana University (2023)  
 - 💼 Completed internships as a **Python Full Stack Engineer** at Skill Genie and **Web Developer** at BusinessLabs  
 - 💡 Skilled in **Python, Django, HTML, CSS, JavaScript, MySQL,** and **Data Analytics**  
 - 📊 Experienced with **Pandas, NumPy, Scikit-learn,** and data visualization  
