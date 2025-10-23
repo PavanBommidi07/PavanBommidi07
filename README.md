@@ -1,75 +1,23 @@
-## Hi, I'm Pavan Bommidi 👋
-Bommidi Pavan
+👋 Hi, I'm Bommidi Pavan
 
-Full Stack Python Developer | Django Developer | Web Developer
+I’m a passionate Full Stack Python Developer, Django Enthusiast, and Data Analyst, dedicated to building impactful web applications and uncovering insights from data.
+My journey in tech is fueled by curiosity, creativity, and a love for solving real-world problems through code and data.
 
-📍 Hyderabad, India
-📧 pavanbommidi007@gmail.com
+🚀 About Me
 
-📞 +91 7673926454
-🌐 GitHub – PavanBommidi07
+🎓 B.Com (Computer Applications) Graduate – Satavahana University (2023)
+💼 Completed internships as a Python Full Stack Engineer at Skill Genie and Web Developer at BusinessLabs
+💡 Skilled in Python, Django, HTML, CSS, JavaScript, MySQL, and Data Analytics
+📊 Experienced with Pandas, NumPy, Scikit-learn, and data visualization
+⚙️ Built projects like E-Commerce Website and Student Management System
+🌱 Exploring Django REST Framework, React.js, and Machine Learning
 
-💻 LeetCode – Pavan_Bommidi
+🧠 What I’m Currently Learning
 
-👨‍💻 About Me
+Django REST Framework & API Integration
 
-I’m a dedicated and adaptable learner with a passion for building impactful digital solutions using Python and Django.
-Curiosity, discipline, and continuous learning are at the core of my work.
-My goal is to develop scalable web applications and contribute effectively to real-world tech challenges.
+React.js for Frontend Development
 
-🎓 Education
+Data Visualization with Power BI & Matplotlib
 
-B.Com (Computer Applications)
-Satavahana University (2020 – 2023) | CGPA: 7.2
-
-Sri Vani Sahakara Jr. College (MPC Stream, 2017 – 2019) | Percentage: 60%
-
-🏢 Internship Experience
-
-💼 Python Full Stack Developer Intern – Skill Genie
-📅 March 2025 – May 2025
-
-Developed full-stack web applications using Python, Django, HTML, CSS, and MySQL.
-
-Worked on both frontend and backend integration, focusing on CRUD operations and UI responsiveness.
-
-Strengthened my understanding of API handling, authentication, and database optimization.
-
-💼 Web Developer Intern – BusinessLabs
-📅 June 2025 – September 2025
-
-Created and optimized web-based systems with Django and REST APIs.
-
-Collaborated on a SaaS platform using Python, Bootstrap, and MySQL.
-
-Contributed to code reviews and performance tuning for real-world applications.
-
-🚀 Projects
-🧩 1. Student Management System
-
-Tech Stack: Django, Python, HTML, CSS, Bootstrap, SQLite
-
-Built a complete CRUD system to manage student records efficiently.
-
-Implemented authentication, admin dashboard, form validation, and flash messages.
-
-Added search and filter functionalities for quick data retrieval.
-
-🛍️ 2. E-Commerce Web Application
-
-Tech Stack: Django, Python, HTML, CSS, Bootstrap, MySQL
-
-Designed a dynamic e-commerce website with product catalog, cart, and order management.
-
-Integrated user authentication (signup/login/logout) and admin control.
-
-Focused on clean UI design and optimized database queries for smooth performance.
-
-🧠 Technical Skills
-
-Languages: Python, JavaScript, HTML5, CSS3, SQL
-Frameworks & Tools: Django, Bootstrap, REST API, Git, GitHub
-Databases: MySQL, SQLite
-Libraries: NumPy, Pandas, Scikit-learn
-Platforms: Windows, Linux (Basic)
-Soft Skills: Leadership, Problem-Solving, Team Collaboration, Time Management
+Machine Learning Basics & Model Deployment
